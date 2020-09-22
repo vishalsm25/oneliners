@@ -1,2 +1,2 @@
-# onliners
+# oneliners
 python one liners
